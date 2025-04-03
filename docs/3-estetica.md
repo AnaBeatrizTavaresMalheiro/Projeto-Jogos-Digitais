@@ -39,5 +39,5 @@ A personagem principal consegue retornar à sua linha temporal original após co
 
 ### Sentidos
 O jogo explorará principalmente os sentidos da visão e audição.  
-**Visuais:** Ambientes detalhados e distintos para cada época, com mudanças dinâmicas no cenário.  
-**Sonoros** Trilha sonora imersiva e efeitos específicos para cada era, como rugidos de dinossauros na Pré-História ou o som metálico de engrenagens no futuro.
+- **Visuais:** Ambientes detalhados e distintos para cada época, com mudanças dinâmicas no cenário.  
+- **Sonoros** Trilha sonora imersiva e efeitos específicos para cada era, como rugidos de dinossauros na Pré-História ou o som metálico de engrenagens no futuro.

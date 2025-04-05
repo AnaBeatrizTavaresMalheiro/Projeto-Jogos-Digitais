@@ -13,6 +13,13 @@
 
     - Robôs: Em um futuro distópico sem humanos, Elena enfrenta robôs que controlam a terra e tentam impedi-la de alterar o curso do tempo.
 
+- Bosses:
+  - Dragão:
+    -O dragão é uma criatura mítica que guarda um fragmento importante da ChronoX no final da fase 1.
+  - Minotauro: O Minotauro guarda outro fragmento da ChronoX no final da fase 2. 
+  - Robô:  É uma versão melhorada dos robôs comuns, destinado a proteger os fragmentos da ChronoX de qualquer intruso no final da fase 3. 
+
+
 ### Histório do Jogo
 A Dra. Elena Voss sempre acreditou que o tempo era uma constante imutável. Como uma das maiores especialistas em física quântica, ela dedicou sua vida ao desenvolvimento da ChronoX, uma máquina revolucionária capaz de abrir portais temporais. Seu objetivo era simples: explorar o passado, desvendar os mistérios da humanidade e talvez até prever o futuro.Mas o destino tinha outros planos.
 Em uma noite fatídica, durante o teste final da ChronoX, algo deu terrivelmente errado. A máquina, incapaz de suportar a pressão do próprio tempo, explodiu em uma fenda temporal. Seus fragmentos foram espalhados por diferentes eras da história, e Elena foi arrastada junto, condenada a vagar por linhas temporais desconhecidas.

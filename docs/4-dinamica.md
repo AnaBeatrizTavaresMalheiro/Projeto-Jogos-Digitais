@@ -1,7 +1,7 @@
 ## Dinâmica
 
 ### Elementos de atenção e envolvimento na história:
-- Atenção – Diversos cenários, sendo um para cada era e reações ao perigos que serão apresentados.
+- Atenção – Diversos cenários, sendo um para cada era e reações ao perigos que serão apresentados ao longo do jogo.
 - Envolvimento – História do jogo.
 
 ### Tipos de decisões do seu jogador?

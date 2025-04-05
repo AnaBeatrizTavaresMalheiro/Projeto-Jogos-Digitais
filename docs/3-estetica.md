@@ -1,16 +1,16 @@
 ## Estética
 
-- Personagens 
-    - Quais os personagens que farão parte do jogo?
-        - Ex: Protagonistas, Antagonistas, Personagens não jogaveis (NPCs) ...
-    - Qual o plano de fundo do(s) seu(s) personagem(s)?
-    - Quais as características mais importantes para serem adicionadas no(s) personagem(s)?
+### Personagens do Jogo 
 
+- Protagonista: Elena Voss uma cientista especialista em física quântica, Elena é transportada para várias linhas temporais após a destruição da ChronoX, sua máquina do tempo. Ela deve reunir os fragmentos da ChronoX e voltar ao seu tempo original.
 
-Inimigos-
-Protagonista -
+- Antagonistas:
 
+    - Dinossauros Pré-Históricos: Dinossauros famintos, agressivos e implacáveis, que veem Elena como presa e a perseguem nas eras pré-históricas.
 
+    - Guardas do Castelo: Soldados leais a um rei tirano, que impedem o avanço de Elena em um reino medieval, acreditando que ela seja uma rebelde.
+
+    - Robôs: Em um futuro distópico sem humanos, Elena enfrenta robôs que controlam a terra e tentam impedi-la de alterar o curso do tempo.
 
 ### Histório do Jogo
 A Dra. Elena Voss sempre acreditou que o tempo era uma constante imutável. Como uma das maiores especialistas em física quântica, ela dedicou sua vida ao desenvolvimento da ChronoX, uma máquina revolucionária capaz de abrir portais temporais. Seu objetivo era simples: explorar o passado, desvendar os mistérios da humanidade e talvez até prever o futuro.Mas o destino tinha outros planos.

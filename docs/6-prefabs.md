@@ -23,6 +23,8 @@
     - Será utilizado todo início de fase.
 - **Componentes**
     - **Sprites**
+ 
+      ![{697A9B19-60BA-4C74-898D-A92D66D7A3D8}](https://github.com/user-attachments/assets/077821ef-ed07-46ea-9747-a240657e8146)
     - **Scripts**
         - Sua funcionalidade será se comunicar com Elena Voss através de uma caixa de diálogo.
 
@@ -66,7 +68,7 @@
 - **Componentes**
     - **Sprites**
  
-      
+      ![{3E752F33-C27D-420B-82D2-7CC6737F7075}](https://github.com/user-attachments/assets/e67b10ec-7589-4bc2-9480-cb4c6a14ce72)
     - **Colisores**
         - Box Collider 2D
         - Rigidbody 2D
@@ -82,10 +84,10 @@
 - **Componentes**
     - **Sprites**
  
-      
+      ![{4FC0AB9F-C733-4BC6-B3E6-62B9EB411251}](https://github.com/user-attachments/assets/cb3a35b0-3342-407d-9a26-0810521db160)
     - **Colisores**
         - Box Collider 2D
         - Rigidbody 2D
     - **Fontes de audio**
     - **Scripts**
-        - Possui funcionalidades de andar e atirar.
+        - Possui funcionalidades de andar e soltar magia.

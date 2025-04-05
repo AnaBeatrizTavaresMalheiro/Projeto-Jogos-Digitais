@@ -23,8 +23,8 @@
     - Será utilizado todo início de fase.
 - **Componentes**
     - **Sprites**
- 
-      ![{697A9B19-60BA-4C74-898D-A92D66D7A3D8}](https://github.com/user-attachments/assets/077821ef-ed07-46ea-9747-a240657e8146)
+
+      ![{AD7DAE67-9BE4-4D9B-A01F-282352E2AE0A}](https://github.com/user-attachments/assets/3a3e7ea5-4fe7-43fd-bdc3-b8d45572edbf)
     - **Scripts**
         - Sua funcionalidade será se comunicar com Elena Voss através de uma caixa de diálogo.
 
@@ -76,18 +76,69 @@
     - **Scripts**
         - Possui funcionalidades de andar e atirar.
 
-### Bruxa - Boss
+### Dragão - Boss
 - **Descrição**
     - Será um boss que tentará fazer com que Elena Voss não retorne para a sua realidade.
 - **Quando são utilizados**
-    -  Será utilizada na fase 2.
+    - Será utilizado na fase 1.
 - **Componentes**
     - **Sprites**
  
-      ![{4FC0AB9F-C733-4BC6-B3E6-62B9EB411251}](https://github.com/user-attachments/assets/cb3a35b0-3342-407d-9a26-0810521db160)
+      ![{B894D1FA-FB8D-4F8F-A979-B5EA722FCF3D}](https://github.com/user-attachments/assets/265d39eb-ecd2-4285-8df9-515b73d83ab9)
     - **Colisores**
         - Box Collider 2D
         - Rigidbody 2D
     - **Fontes de audio**
     - **Scripts**
-        - Possui funcionalidades de andar e soltar magia.
+        - Possui funcionalidades de andar e soltar bolas de fogo.
+
+### Minotauro - Boss
+- **Descrição**
+    - Será um boss que tentará fazer com que Elena Voss não retorne para a sua realidade.
+- **Quando são utilizados**
+    - Será utilizado na fase 2.
+- **Componentes**
+    - **Sprites**
+ 
+      ![{AF572C86-7C4B-49D2-99B7-C3F027FCEE07}](https://github.com/user-attachments/assets/4ab005c3-a993-4994-a765-f3ab9609581f)
+    - **Colisores**
+        - Box Collider 2D
+        - Rigidbody 2D
+    - **Fontes de audio**
+    - **Scripts**
+        - Possui funcionalidades de andar e golpear.
+
+### Robô - Boss
+- **Descrição**
+    - Será um boss que tentará fazer com que Elena Voss não retorne para a sua realidade.
+- **Quando são utilizados**
+    - Será utilizado na fase 3.
+- **Componentes**
+    - **Sprites**
+ 
+      ![image](https://github.com/user-attachments/assets/0a7f3870-d600-44c8-a0df-f8d080ed20ae)
+    - **Colisores**
+        - Box Collider 2D
+        - Rigidbody 2D
+    - **Fontes de audio**
+    - **Scripts**
+        - Possui funcionalidades de andar e soltar laser.
+
+### Vida
+- **Descrição**
+    - Representação de quantas vidas a personagem tem.
+- **Quando são utilizados**
+    - Será utilizada em todas as 3 fases.
+- **Componentes**
+    - **Sprites**
+ 
+      ![{4D3542D3-8312-44D8-965A-8C30D36E2363}](https://github.com/user-attachments/assets/0d679d2b-871a-4b87-97ed-85702070c23f)
+    - **Scripts**
+        - Sua funcionalidade será remover um coração a cada vez que a personagem sofre algum tipo de dano.
+
+
+
+
+
+
+

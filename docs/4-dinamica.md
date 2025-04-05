@@ -13,8 +13,8 @@ ii.
 como a forma de navegar pelos desafios de cada era, adaptando-se a
 obstáculos específicos.
 
-- Guiando o Jogador:
-    - Quais os elementos de orientação direta?
-        - Onde e como eles acontecem
-    - Quais os elementos de orientação indireta?
-        - Onde e como eles acontecem
+### Guiando o Jogador:
+- Elementos de orientação direta:
+    - Placas espalhadas ao longo dos mapas direcionando o jogador ao objetivo.
+- Elementos de orientação indireta:
+    - Diálogo inicial explicando o funcionamento do jogo com um NPC.

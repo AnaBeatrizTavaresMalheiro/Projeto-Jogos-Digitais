@@ -3,6 +3,7 @@
 ### Personagens do Jogo 
 
 - Protagonista: Elena Voss uma cientista especialista em física quântica, Elena é transportada para várias linhas temporais após a destruição da ChronoX, sua máquina do tempo. Ela deve reunir os fragmentos da ChronoX e voltar ao seu tempo original.
+- Host do Game: Com origem desconhecida, o host passa as orientações para Elena Voss todas as informações do contexto de onde ela está e o que ela deve fazer para retornar a sua realidade.
 
 - Antagonistas:
 

@@ -76,7 +76,7 @@
     - **Scripts**
         - Possui funcionalidades de andar e atirar.
 
-### Dragão - Boss
+### Dragão - Boss Fase 1
 - **Descrição**
     - Será um boss que tentará fazer com que Elena Voss não retorne para a sua realidade.
 - **Quando são utilizados**
@@ -92,7 +92,7 @@
     - **Scripts**
         - Possui funcionalidades de andar e soltar bolas de fogo.
 
-### Minotauro - Boss
+### Minotauro - Boss Fase 2
 - **Descrição**
     - Será um boss que tentará fazer com que Elena Voss não retorne para a sua realidade.
 - **Quando são utilizados**
@@ -108,7 +108,7 @@
     - **Scripts**
         - Possui funcionalidades de andar e golpear.
 
-### Robô - Boss
+### Robô - Boss Fase 3
 - **Descrição**
     - Será um boss que tentará fazer com que Elena Voss não retorne para a sua realidade.
 - **Quando são utilizados**

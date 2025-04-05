@@ -92,6 +92,7 @@
     - **Scripts**
         - Possui funcionalidades de andar e soltar bolas de fogo.
 
+
 ### Minotauro - Boss Fase 2
 - **Descrição**
     - Será um boss que tentará fazer com que Elena Voss não retorne para a sua realidade.
@@ -124,6 +125,38 @@
     - **Scripts**
         - Possui funcionalidades de andar e soltar laser.
 
+### Bola de Fogo
+- **Descrição**
+    - Será uma bola de fogo atirada pelo Dragão pelo Robô 
+- **Quando são utilizados**
+    - Será utilizado na fase 1 e 3.
+- **Componentes**
+    - **Sprites**
+ 
+      ![{F78808AF-0537-459F-9E99-342517CD07D7}](https://github.com/user-attachments/assets/4d9ebfce-8fc2-46e3-b9f4-dcec5a7a5a63)
+    - **Colisores**
+        - Box Collider 2D
+        - Rigidbody 2D
+    - **Fontes de audio**
+    - **Scripts**
+        - Soltar a bola de fogo.
+
+### Raio Laser
+- **Descrição**
+    - Será uma raio laser atirado pelo Boss Robô 
+- **Quando são utilizados**
+    - Será utilizado na fase 3.
+- **Componentes**
+    - **Sprites**
+ 
+      ![{F5867B4C-35CB-465C-9A27-90D5FF186B8E}](https://github.com/user-attachments/assets/a9c48e2c-bf8b-4066-abc3-b69b7434c1da)
+    - **Colisores**
+        - Box Collider 2D
+        - Rigidbody 2D
+    - **Fontes de audio**
+    - **Scripts**
+        - Soltar a bola de fogo.
+          
 ### Vida
 - **Descrição**
     - Representação de quantas vidas a personagem tem.

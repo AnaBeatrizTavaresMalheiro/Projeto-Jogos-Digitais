@@ -155,7 +155,7 @@
         - Rigidbody 2D
     - **Fontes de audio**
     - **Scripts**
-        - Soltar a bola de fogo.
+        - Soltar um raio laser.
           
 ### Vida
 - **Descrição**

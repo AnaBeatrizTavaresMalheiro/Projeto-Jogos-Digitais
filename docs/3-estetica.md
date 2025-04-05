@@ -6,11 +6,8 @@
 - Host do Game: Com origem desconhecida, o host passa as orientações para Elena Voss todas as informações do contexto de onde ela está e o que ela deve fazer para retornar a sua realidade.
 
 - Antagonistas:
-
     - Dinossauros Pré-Históricos: Dinossauros famintos, agressivos e implacáveis, que veem Elena como presa e a perseguem nas eras pré-históricas.
-
     - Guardas do Castelo: Soldados leais a um rei tirano, que impedem o avanço de Elena em um reino medieval, acreditando que ela seja uma rebelde.
-
     - Robôs: Em um futuro distópico sem humanos, Elena enfrenta robôs que controlam a terra e tentam impedi-la de alterar o curso do tempo.
 
 - Bosses:

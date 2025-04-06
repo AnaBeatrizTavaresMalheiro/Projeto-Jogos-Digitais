@@ -3,7 +3,7 @@ Trabalho de Desenvolvimento de Jogos apresentado ao Centro Universitário [FEI](
 
 ## Componentes do Grupo
 
-- Ana Beatriz de Sousa
+- Ana Beatriz de Souza
 - Ana Beatriz Tavares Malheiro
 - Felipe Orlando Lanzara
 - Luisa Graça Barbado

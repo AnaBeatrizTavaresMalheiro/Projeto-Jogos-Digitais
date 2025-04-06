@@ -6,7 +6,7 @@ Trabalho de Desenvolvimento de Jogos apresentado ao Centro Universitário [FEI](
 - Ana Beatriz de Souza
 - Ana Beatriz Tavares Malheiro
 - Felipe Orlando Lanzara
-- Luisa Graça Barbado
+- Luísa Graça Barbado
 
 ## Tópicos
 - [Introdução](./docs/1-introducao.md)

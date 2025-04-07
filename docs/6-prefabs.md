@@ -36,7 +36,7 @@
 - **Componentes**
     - **Sprites**
  
-      ![{062CCD8D-92D2-4E48-8BDF-D7FE494A8DBC}](https://github.com/user-attachments/assets/a8dc092b-46ac-4521-8fb2-238248ff895b)
+     
     - **Colisores**
         - Box Collider 2D
         - Rigidbody 2D
@@ -51,8 +51,7 @@
     - Serão utilizados durante toda a fase 2.
 - **Componentes**
     - **Sprites**
- 
-      ![{6586501C-E60D-4153-9399-C5EB1519F8AE}](https://github.com/user-attachments/assets/51ccfc4b-d55b-4855-94aa-dbb6dbbf25c2)
+      ![{062CCD8D-92D2-4E48-8BDF-D7FE494A8DBC}](https://github.com/user-attachments/assets/a8dc092b-46ac-4521-8fb2-238248ff895b)
     - **Colisores**
         - Box Collider 2D
         - Rigidbody 2D

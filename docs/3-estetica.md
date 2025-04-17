@@ -11,9 +11,9 @@
     - Robôs: Em um futuro distópico sem humanos, Elena enfrenta robôs que controlam a terra e tentam impedi-la de alterar o curso do tempo.
 
 - Bosses:
-  - Dragão: O dragão é uma criatura mítica que guarda um fragmento importante da ChronoX no final da fase 1.
-  - Minotauro: O Minotauro guarda outro fragmento da ChronoX no final da fase 2. 
-  - Robô:  É uma versão melhorada dos robôs comuns, destinado a proteger os fragmentos da ChronoX de qualquer intruso no final da fase 3. 
+    - Velociraptor: Uma criatura rápida e letal, conhecida por sua agilidade, protege um fragmento importante da ChronoX no final da fase 1.
+    - Dragão: O dragão é uma criatura mítica que guarda um fragmento importante da ChronoX no final da fase 2.
+    - Robô: É uma versão melhorada dos robôs comuns, destinado a proteger os fragmentos da ChronoX de qualquer intruso no final da fase 3.
 
 
 ### Histório do Jogo

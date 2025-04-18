@@ -9,7 +9,9 @@ public class MainMenu : MonoBehaviour {
     }
 
     void Update() {
-        
+        if (Input.GetMouseButtonDown(0)) { // Botão esquerdo do mouse
+            SoundManager.Instance.PlaySound2D("MouseClick");
+        }
     }
 
     public void Play() { // quando clicar no botao de Play:
